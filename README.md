@@ -60,11 +60,14 @@ The model is trained using the dataset **transport_conditions.csv** and saved as
 ### Install Dependencies
 
 pip install pandas scikit-learn matplotlib colorama
-Train the Model
+
+### Train the Model
 python train_model.py
-Run the Travel Assistant
+
+### Run the Travel Assistant
 python travel_assistant.py
-Example Workflow
+
+### Example Workflow
 User selects Plan a Trip
 User enters starting city and destination
 System calculates travel options
@@ -73,7 +76,7 @@ Assistant recommends:
 Fastest mode
 Cheapest mode
 Most comfortable mode
-Learning Outcomes
+### Learning Outcomes
 Through this project, the following AI/ML concepts were applied:
 Machine learning model training
 Decision Tree classification
