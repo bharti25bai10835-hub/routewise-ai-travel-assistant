@@ -1,0 +1,9 @@
+mode,travel_time,seat_comfort,noise_level,stability,comfort_level
+Car,10,6,4,6,Medium
+Car,12,5,5,5,Medium
+Bus,11,4,7,4,Low
+Bus,10,5,6,5,Low
+Train,8,8,3,8,High
+Train,7,9,3,9,High
+Flight,2,6,5,6,Medium
+Flight,3,6,6,6,Medium
